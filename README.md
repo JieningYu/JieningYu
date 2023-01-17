@@ -23,8 +23,9 @@ CreatePlus is a Create Fabric addon which extends its recipes and make it suppor
 ## Programming Languages
 
 1. ☕️ Java
-2. 📜 JavaScript
-3. 🐍 Python
+2. 🦀 Rust
+3. 📜 JavaScript
+4. 🐍 Python
 
 ## Stacks
 
