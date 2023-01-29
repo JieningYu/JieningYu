@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on Minecraft Fabric/Quilt modding!
 - ❗️ If you have any issues/suggestions, report to me then.
 - 💬 Languages: 简体中文, English
-- 
