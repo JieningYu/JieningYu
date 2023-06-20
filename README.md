@@ -1,5 +1,6 @@
-# Hi there, I'm Yjn024 👋
-
-- ✨ I'm a senior high school student.
-- 🌱 I'm currently learning Rust.
-- 💬 Languages: 简体中文, English
+```rs
+fn main() {
+  println!("原神，启动！");
+  genshin_impact::bootstrap()
+}
+```
