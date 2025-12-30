@@ -14,10 +14,12 @@ what can I say?
 ======// __\___\___\___\            /_| /_|   /_|  /_/
 ```
 
+Ran Mouri
+
 ```
                              _
           _____________ /    /
-     _ /                    /
+      /                     /
     /                      /
     /    /    / X///\\ \ \ \
     \  //// //\//\/  /\ \\\|/
@@ -29,3 +31,5 @@ what can I say?
  /     ___|       |__   |
 /    /  __/       |_  \ /
 ```
+
+undergraduate in bupt school of electric engineering
