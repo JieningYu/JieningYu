@@ -33,3 +33,5 @@ Ran Mouri
 ```
 
 undergraduate in bupt school of electric engineering
+
+Miho Komatsu enjoyer since May 2026 or earlier
